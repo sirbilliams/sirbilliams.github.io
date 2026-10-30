@@ -1,0 +1,10 @@
+{
+  "owner": "sirbilliams",
+  "ports": [
+    {"repo": "Fallout2Ce-Dualscreen-Android", "tagline": "Fallout 2 CE rebuilt for touch screens in landscape, with a bottom-screen companion for dual-screen handhelds. Early beta."},
+    {"repo": "neutron1-Android", "tagline": "Jimmy Neutron: Boy Genius (2001), rebuilt as a C++ reconstruction that runs natively on the AYN Thor. In progress."},
+    {"repo": "neutron2-Android", "tagline": "Jimmy Neutron vs. Jimmy Negatron (2002), rebuilt natively for the Thor, with widescreen and a second-screen panel."},
+    {"repo": "Rollerbot-Android", "tagline": "Rollerbot: A Time Journey (2000), a fan reconstruction for the AYN Thor and Linux (Flatpak). About 55% done."},
+    {"repo": "SpongebobEOTM-Android", "tagline": "SpongeBob SquarePants: Employee of the Month (2002), a preservation port for the AYN Thor. About 82% done."}
+  ]
+}
