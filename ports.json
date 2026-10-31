@@ -3,11 +3,11 @@
   "ports": [
     {
       "repo": "Fallout1Ce-Dualscreen-Android",
-      "tagline": "Fallout 1 CE rebuilt for touch on the AYN Thor: Pip-Boy 2000 theme, bottom-screen dashboard, 16:9 widescreen. Early, playable."
+      "tagline": "Fallout 1 CE rebuilt for touch on the AYN Thor: Pip-Boy 2000 theme, bottom-screen live map and combat panel, mouse and controller controls with remapping, 16:9 widescreen. Playable."
     },
     {
       "repo": "Fallout2Ce-Dualscreen-Android",
-      "tagline": "Fallout 2 CE rebuilt for touch screens in landscape, with a Pip-Boy 2000 theme and a bottom-screen companion for dual-screen handhelds. Beta, fully playable."
+      "tagline": "Fallout 2 CE for the AYN Thor, v2.0: full touch UI, Pip-Boy 2000 theme, bottom-screen companion with live map, mouse and controller controls with remapping. Fully playable."
     },
     {
       "repo": "neutron1-Android",
